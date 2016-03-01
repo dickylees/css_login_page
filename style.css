@@ -1,0 +1,102 @@
+.grey{
+    background-color: gainsboro;
+}
+.header{
+    background-color: cadetblue;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3em;
+    line-height: 3em;
+    color: white;
+}
+.close_btn{
+    float: left;
+    width: 4em;
+    height: 3em;
+    line-height: 3em;
+    color: white;
+    text-align: center;
+}
+.register_btn{
+    float: right;
+    width: 4em;
+    height: 3em;
+    line-height: 3em;
+    color: white;
+    text-align: center;
+}
+.blank{
+    width: 100%;
+    height: 3.5em;
+}
+.blank_1{
+    float: left;
+     width: 100%;
+     height: 0.5em;
+}
+.blank_3{
+    float: left;
+    width: 100%;
+    height: 3em;
+}
+.text{
+    float: left;
+/*    margin-top: 0.5em;
+    margin-bottom: 0.5em;*/
+    left: 0;
+    width: 100%;
+    height: 4em;
+    background-color: white;
+}
+.text_box{
+    vertical-align: middle;
+    float: left;
+    height: 4em;
+    line-height: 4em;
+    color: grey;
+}
+.login_btn{
+    float: left;
+    width: 100%;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    height: 4em;
+    line-height: 4em;
+}
+.forget_btn{
+    float: right;
+    width: 6em;
+    color: cadetblue;
+    text-align: center;
+    height: 2em;
+    line-height: 2em;
+}
+
+.clear{
+    clear: both;
+    height: 0;
+    line-height: 0;
+    font-size: 0;
+}
+
+body{
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+img{
+    float: left;
+    height: 4em;
+    background-color: white;
+}
+p{
+    margin: 0em;
+    vertical-align: middle;
+    height: 100%;
+    text-align: center;
+}
